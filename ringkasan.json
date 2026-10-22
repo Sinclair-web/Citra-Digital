@@ -1,0 +1,21 @@
+{
+    "nama_gambar": "VINCENT KEPALA DUA (1).jpg",
+    "lebar": 736,
+    "tinggi": 736,
+    "jumlah_kanal": 3,
+    "bentuk_array": [
+        736,
+        736,
+        3
+    ],
+    "tipe_data": "uint8",
+    "jumlah_nilai": 1625088,
+    "ukuran_array_mentah_byte": 1625088,
+    "nilai_rgb_piksel_tengah": [
+        151,
+        113,
+        110
+    ],
+    "rekonstruksi_identik": true,
+    "selisih_maksimum": 0
+}
