@@ -1,7 +1,9 @@
 # Pembuktian Citra Digital sebagai Susunan Angka Menggunakan Python
 
 Nama : M Said Hibban Muttaqien
+
 NIM : 24260016
+
 Prodi : Teknik Informatika
 
 ## 1. Deskripsi Proyek
