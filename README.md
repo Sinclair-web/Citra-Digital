@@ -1,5 +1,9 @@
 # Pembuktian Citra Digital sebagai Susunan Angka Menggunakan Python
 
+Nama : M Said Hibban Muttaqien
+NIM : 24260016
+Prodi : Teknik Informatika
+
 ## 1. Deskripsi Proyek
 
 Proyek ini dibuat untuk membuktikan bahwa citra digital bukan hanya sebuah gambar yang dapat dilihat oleh manusia, tetapi juga merupakan kumpulan data numerik yang dapat dibaca dan diolah oleh komputer.
